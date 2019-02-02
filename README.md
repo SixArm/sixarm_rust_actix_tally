@@ -1,6 +1,6 @@
-# SixArm → Rust → Actix → Tot
+# SixArm → Rust → Actix → Tally
 
-A Rust Actix web service to score how many times the service is called.
+A Rust Actix web service to count how many times the service is called.
 
 
 ## Run

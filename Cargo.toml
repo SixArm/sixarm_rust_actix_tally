@@ -1,5 +1,5 @@
 [package]
-name = "sixarm_rust_actix_tot"
+name = "sixarm_rust_actix_tally"
 version = "1.0.0"
 authors = ["Joel Parker Henderson <joel@joelparkerhenderson.com>"]
 
